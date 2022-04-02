@@ -1,7 +1,7 @@
 [//]: <> (# Hi there)
 
-<h4 align="center">Connect with me:</h3>
-<p align="center">
+<h2>Connect with me:</h3>
+<p align="left">
   <a href="https://www.linkedin.com/in/paulzxc/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
@@ -12,9 +12,8 @@
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Github" />
   </a>
 </p>
-
-<h4 align="center">Languages, Frameworks, and Tools:</h4>
-<p align="center">
+<h2>Languages, Frameworks, and Tools:</h4>
+<p align="left">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF" alt="CSS3" />
   <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=SASS&logoColor=FFFFFF" alt="SASS" />
@@ -50,6 +49,7 @@
 <!--   <img src="https://img.shields.io/badge/adobe%20illustrator-141518?style=for-the-badge&logo=adobe-illustrator&logoColor=FF9A00" alt="Adobe Illustrator" /> -->
 <!--   <img src="https://img.shields.io/badge/adobe%20premiere-141518?style=for-the-badge&logo=adobe-premiere-pro&logoColor=9999FF" alt="Adobe Premiere" /> -->
 </p>
+<br />
 <div align="center">
   <img width="225" src="https://github-readme-stats-paulzxc.vercel.app/api/top-langs?theme=onedark&hide_border=true&layout=compact&username=pdzxc&langs_count=8&count_private=true&hide_title=true" />
   <img width="260" src="https://github-readme-streak-stats.herokuapp.com/?user=pdzxc&theme=onedark&hide_border=true&stroke=282c34" />
