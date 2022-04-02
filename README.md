@@ -55,3 +55,4 @@
   <img width="275" src="https://github-readme-streak-stats.herokuapp.com/?user=pdzxc&theme=onedark&hide_border=true&stroke=282c34" />
   <img width="325" src="https://github-readme-stats-paulzxc.vercel.app/api?username=pdzxc&count_private=true&hide_border=true&show_icons=true&theme=onedark&include_all_commits=true&langs_count=8&hide_title=true" />
 </div>
+<img width="" src="https://activity-graph.herokuapp.com/graph?username=pdzxc&theme=one-dark" />
