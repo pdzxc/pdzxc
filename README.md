@@ -46,8 +46,8 @@
 ![](https://img.shields.io/badge/adobe%20illustrator-141518?style=for-the-badge&logo=adobe-illustrator&logoColor=FF9A00)
 ![](https://img.shields.io/badge/adobe%20premiere-141518?style=for-the-badge&logo=adobe-premiere-pro&logoColor=9999FF)
 
-<div style="text-align: center">
+<p align="center">
   <img src="https://github-readme-stats-paulzxc.vercel.app/api/top-langs?theme=onedark&hide_border=true&layout=compact&username=pdzxc&langs_count=8&count_private=true&hide_title=true" />
   <img src="https://github-readme-stats.vercel.app/api?username=pdzxc&count_private=true&hide_border=true&show_icons=true&theme=onedark&include_all_commits=true&langs_count=8&hide_title=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pdzxc&theme=onedark&hide_border=true&stroke=282c34" />
-</div>
+</p>
