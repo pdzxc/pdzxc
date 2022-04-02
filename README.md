@@ -51,7 +51,7 @@
 </p>
 <br />
 <div align="left">
-  <img width="250" src="https://github-readme-stats-paulzxc.vercel.app/api/top-langs?theme=onedark&hide_border=true&layout=compact&username=pdzxc&langs_count=8&count_private=true&hide_title=true" />
-  <img width="289" src="https://github-readme-streak-stats.herokuapp.com/?user=pdzxc&theme=onedark&hide_border=true&stroke=282c34" />
-  <img width="342" src="https://github-readme-stats-paulzxc.vercel.app/api?username=pdzxc&count_private=true&hide_border=true&show_icons=true&theme=onedark&include_all_commits=true&langs_count=8&hide_title=true" />
+  <img width="238" src="https://github-readme-stats-paulzxc.vercel.app/api/top-langs?theme=onedark&hide_border=true&layout=compact&username=pdzxc&langs_count=8&count_private=true&hide_title=true" />
+  <img width="275" src="https://github-readme-streak-stats.herokuapp.com/?user=pdzxc&theme=onedark&hide_border=true&stroke=282c34" />
+  <img width="325" src="https://github-readme-stats-paulzxc.vercel.app/api?username=pdzxc&count_private=true&hide_border=true&show_icons=true&theme=onedark&include_all_commits=true&langs_count=8&hide_title=true" />
 </div>
