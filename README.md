@@ -51,8 +51,8 @@
 </p>
 <br />
 <div align="left">
-  <img width="237" src="https://github-readme-stats-paulzxc.vercel.app/api/top-langs?theme=onedark&hide_border=true&layout=compact&username=pdzxc&langs_count=8&count_private=true&hide_title=true" />
-  <img width="275" src="https://github-readme-streak-stats.herokuapp.com/?user=pdzxc&theme=onedark&hide_border=true&stroke=282c34" />
-  <img width="326" src="https://github-readme-stats-paulzxc.vercel.app/api?username=pdzxc&count_private=true&hide_border=true&show_icons=true&theme=onedark&include_all_commits=true&langs_count=8&hide_title=true" />
+  <img width="237" src="https://github-readme-stats-paulzxc.vercel.app/api/top-langs?theme=onedark&hide_border=true&layout=compact&username=pdzxc&langs_count=8&count_private=true&hide_title=true&bg_color=000" />
+  <img width="275" src="https://github-readme-streak-stats.herokuapp.com/?user=pdzxc&theme=onedark&hide_border=true&stroke=000&&ring=ffbe00&fire=ffbe00&sideNums=ffbe00&sideLabels=ffbe00&background=000" />
+  <img width="326" src="https://github-readme-stats-paulzxc.vercel.app/api?username=pdzxc&count_private=true&hide_border=true&show_icons=true&theme=onedark&include_all_commits=true&langs_count=8&hide_title=true&icon_color=ffbe00&title_color=ffbe00&bg_color=000" />
 </div>
-<img src="https://activity-graph.herokuapp.com/graph?username=pdzxc&theme=one-dark&hide_border=true" />
+<img src="https://activity-graph.herokuapp.com/graph?username=pdzxc&theme=one-dark&hide_border=true&line=ffbe00&bg_color=000" />
