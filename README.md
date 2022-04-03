@@ -2,19 +2,19 @@
 
 <h2 align="center">Hello, friend! 👋</h3>
 <p align="center">
-  <a href="https://github.com/pdzxc" target="_blank">
+  <a href="https://github.com/pdzxc">
     <img src="https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=FFBE00" alt="Github" />
   </a>
-  <a href="https://www.linkedin.com/in/paulzxc" target="_blank">
+  <a href="https://www.linkedin.com/in/paulzxc">
     <img src="https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=FFBE00" />
   </a>
-  <a href="mailto:paul.dehonor@gmail.com" target="_blank">
+  <a href="mailto:paul.dehonor@gmail.com">
     <img src="https://img.shields.io/badge/gmail-000?style=for-the-badge&logo=gmail&logoColor=FFBE00" />
   </a>
-  <a href="https://www.twitter.com/pdzxc" target="_blank">
+  <a href="https://www.twitter.com/pdzxc_">
     <img src="https://img.shields.io/badge/twitter-000?style=for-the-badge&logo=twitter&logoColor=FFBE00" />
   </a>
-  <a href="https://www.instagram.com/pdzxc_" target="_blank">
+  <a href="https://www.instagram.com/pdzxc_">
     <img src="https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=FFBE00" />
   </a>
 </p>
