@@ -30,8 +30,8 @@
   <img src="https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=FFBE00" alt="React" />
   <img src="https://img.shields.io/badge/Redux-000?style=flat-square&logo=redux&logoColor=FFBE00" alt="Redux" />
   <img src="https://img.shields.io/badge/Styled%20Components-000?style=flat-square&logo=styled-components&logoColor=FFBE00" alt="Styled Components" />
-<!--   <img src="https://img.shields.io/badge/Angular-000?style=flat-square&logo=angular&logoColor=FFBE00" alt="Angular" /> -->
-<!--   <img src="https://img.shields.io/badge/Vue-000?style=flat-square&logo=vue.js&logoColor=FFBE00" alt="Vue" /> -->
+  <img src="https://img.shields.io/badge/Angular-000?style=flat-square&logo=angular&logoColor=FFBE00" alt="Angular" />
+  <img src="https://img.shields.io/badge/Vue-000?style=flat-square&logo=vue.js&logoColor=FFBE00" alt="Vue" />
   <img src="https://img.shields.io/badge/Node.js-000?style=flat-square&logo=node.js&logoColor=FFBE00" alt="NodeJS" />
   <img src="https://img.shields.io/badge/Express.js-000?style=flat-square&logo=express&logoColor=FFBE00" alt="Express.js" />
   <img src="https://img.shields.io/badge/MongoDB-000?style=flat-square&logo=mongodb&logoColor=FFBE00" alt="MongoDB" />
