@@ -1,6 +1,6 @@
 [//]: <> (# Hi there)
 
-<h2 align="center">Hello, friend!</h3>
+<h2 align="center">Hello, friend! 👋</h3>
 <p align="center">
   <a href="https://github.com/pdzxc" target="_blank">
     <img src="https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=FFBE00" alt="Github" />
