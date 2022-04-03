@@ -62,6 +62,6 @@
   <img width="326" src="https://github-readme-stats-pdzxc.vercel.app/api?username=pdzxc&count_private=true&hide_border=true&show_icons=true&theme=onedark&include_all_commits=true&langs_count=8&hide_title=true&icon_color=ffbe00&title_color=ffbe00&bg_color=000&text_color=FFF" />
 </div>
 <div align="left">
-  <img src="https://activity-graph.herokuapp.com/graph?username=pdzxc&theme=one-dark&hide_border=true&line=ffbe00&bg_color=000&color=FFF&point=FFF" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=pdzxc&theme=one-dark&hide_border=true&line=FFF&bg_color=000&color=FFF&point=ffbe00" />
 <!--   <img src="https://komarev.com/ghpvc/?username=pdzxc&color=000&style=for-the-badge&labelColor=282c34" /> -->
 </div>
