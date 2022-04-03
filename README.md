@@ -1,18 +1,18 @@
 [//]: <> (# Hi there)
 
-<h2>Connect with me</h3>
-<p align="left">
+<h2 align="center">Hello, friend!</h3>
+<p align="center">
   <a href="https://www.linkedin.com/in/paulzxc/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=FFBE00" />
   </a>
   <a href="mailto:paul.dehonor@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />
+    <img src="https://img.shields.io/badge/gmail-000?style=for-the-badge&logo=gmail&logoColor=FFBE00" />
   </a>
   <a href="https://github.com/pdzxc" target="_blank">
-    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Github" />
+    <img src="https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=FFBE00" alt="Github" />
   </a>
 </p>
-<h2>Languages, Frameworks, and Tools</h4>
+<h2>Main Technologies</h4>
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-000?style=flat-square&logo=html5&logoColor=FFBE00" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-000?style=flat-square&logo=css3&logoColor=FFBE00" alt="CSS3" />
@@ -49,7 +49,7 @@
   <img src="https://img.shields.io/badge/Illustrator-000?style=flat-square&logo=adobe-illustrator&logoColor=FFBE00" alt="Adobe Illustrator" />
   <img src="https://img.shields.io/badge/Premiere-000?style=flat-square&logo=adobe-premiere-pro&logoColor=FFBE00" alt="Adobe Premiere" />
 </p>
-<br />
+<h2>GitHub Stats</h2>
 <div align="left">
   <img width="237" src="https://github-readme-stats-pdzxc.vercel.app/api/top-langs?theme=onedark&hide_border=true&layout=compact&username=pdzxc&langs_count=8&count_private=true&hide_title=true&bg_color=000&text_color=FFF" />
   <img width="275" src="https://github-readme-streak-stats.herokuapp.com/?user=pdzxc&theme=onedark&hide_border=true&stroke=000&ring=ffbe00&fire=ffbe00&sideNums=ffbe00&sideLabels=ffbe00&background=000&dates=FFF&currStreakLabel=ffbe00&currStreakNum=FFF" />
