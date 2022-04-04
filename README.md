@@ -51,7 +51,8 @@
 <!--   <img src="https://img.shields.io/badge/adobe%20premiere-141518?style=for-the-badge&logo=adobe-premiere-pro&logoColor=9999FF" alt="Adobe Premiere" /> -->
 </p>
 <h3>GitHub Stats</h3>
- <img width="237" src="https://github-readme-stats-pdzxc.vercel.app/api/top-langs?theme=onedark&hide_border=true&layout=compact&username=pdzxc&langs_count=8&count_private=true&hide_title=true" />
+<div align="left">
+  <img width="237" src="https://github-readme-stats-pdzxc.vercel.app/api/top-langs?theme=onedark&hide_border=true&layout=compact&username=pdzxc&langs_count=8&count_private=true&hide_title=true" />
   <img width="275" src="https://github-readme-streak-stats.herokuapp.com/?user=pdzxc&theme=onedark&hide_border=true&stroke=282c34" />
   <img width="326" src="https://github-readme-stats-pdzxc.vercel.app/api?username=pdzxc&count_private=true&hide_border=true&show_icons=true&theme=onedark&include_all_commits=true&langs_count=8&hide_title=true" />
 </div>
