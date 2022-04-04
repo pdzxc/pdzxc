@@ -11,6 +11,9 @@
   <a href="https://github.com/pdzxc" target="_blank">
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Github" />
   </a>
+  <a href="https://stackoverflow.com/users/17218277/pdzxc" target="_blank">
+    <img src="https://img.shields.io/badge/stackoverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=FFFFFF" alt="Stackoverflow" />
+  </a>
 </p>
 <br />
 <h3>Main Technologies</h3>
