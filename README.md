@@ -63,5 +63,5 @@
 </div>
 <div align="left">
   <img src="https://activity-graph.herokuapp.com/graph?username=pdzxc&theme=one-dark&hide_border=true&line=FFF&bg_color=000&color=FFF&point=ffbe00" />
-<!--   <img src="https://komarev.com/ghpvc/?username=pdzxc&color=000&style=for-the-badge&labelColor=282c34" /> -->
+  <img src="https://komarev.com/ghpvc/?username=pdzxc&color=FFBE00&style=for-the-badge&labelColor=282c34" />
 </div>
