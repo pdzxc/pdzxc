@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I’m Paul De Honor!</h1>
 <p align="center">
-  <img src="pdzxc.png" width="300" />
+  <img src="logo.png" width="89" />
 </p>
+<h1 align="center">Hi, I’m Paul De Honor!</h1>
 <h3 align="center">I design & build web apps.</h3>
 <p align="center">I’m a software engineer based in Philippines. I enjoy building everything from small business sites to rich interactive web applications. Currently, I’m focused on building scalable products with great user experience at D.W. Morgan.</p>
 <p align="center">
