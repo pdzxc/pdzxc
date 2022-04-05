@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="logo.png" width="89" />
+  <a href="https://pdzxc.dev">
+    <img src="logo.png" width="89" />
+  </a>
 </p>
 <h1 align="center">Hi, I’m Paul De Honor!</h1>
 <h3 align="center">I design & build web apps.</h3>
