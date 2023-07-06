@@ -7,7 +7,7 @@
 <h3 align="center">I design & build web apps.</h3>
 <p align="center">I’m a Software Engineer based in Philippines. I enjoy building everything from small business sites to rich interactive web applications. Currently, I’m focused on building scalable products with great user experience at D.W. Morgan.</p>
 <p align="center">
-  <a href="https://www.linkedin.com/in/paulzxc/" target="_blank">
+  <a href="https://www.linkedin.com/in/pdzxc/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:paul.dehonor@gmail.com" target="_blank">
@@ -60,9 +60,9 @@
 </p>
 <h3>GitHub Stats</h3>
 <div align="center">
-  <img width="28%" src="https://github-readme-stats-pdzxc.vercel.app/api/top-langs?theme=onedark&hide_border=true&layout=compact&username=pdzxc&langs_count=8&count_private=true&hide_title=true" />
+<!--   <img width="28%" src="https://github-readme-stats-pdzxc.vercel.app/api/top-langs?theme=onedark&hide_border=true&layout=compact&username=pdzxc&langs_count=8&count_private=true&hide_title=true" /> -->
   <img width="32.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=pdzxc&theme=onedark&hide_border=true&stroke=282c34" />
-  <img width="38.53%" src="https://github-readme-stats-pdzxc.vercel.app/api?username=pdzxc&count_private=true&hide_border=true&show_icons=true&theme=onedark&include_all_commits=true&langs_count=8&hide_title=true" />
+<!--   <img width="38.53%" src="https://github-readme-stats-pdzxc.vercel.app/api?username=pdzxc&count_private=true&hide_border=true&show_icons=true&theme=onedark&include_all_commits=true&langs_count=8&hide_title=true" /> -->
 </div>
 <div align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=pdzxc&theme=one-dark&hide_border=true&hide_title=true&color=e4bf7a&point=8eb573&line=df6d74" />
