@@ -10,9 +10,9 @@
   <a href="https://www.linkedin.com/in/pdzxc/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:paul.dehonor@gmail.com" target="_blank">
+<!--   <a href="mailto:paul.dehonor@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />
-  </a>
+  </a> -->
   <a href="https://github.com/pdzxc" target="_blank">
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="Github" />
   </a>
