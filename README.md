@@ -5,7 +5,8 @@
 </p>
 <h1 align="center">Hi, I’m Paul De Honor!</h1>
 <h3 align="center">I design & build web apps.</h3>
-<!-- <p align="center">I’m a Software Engineer based in Philippines. I enjoy building everything from small business sites to rich interactive web applications. Currently, I’m focused on building scalable products with great user experience at D.W. Morgan.</p> -->
+<p align="center">I’m a Software Engineer based in Philippines. I enjoy building everything from small business sites to rich interactive web applications. Currently, I’m focused on building scalable products with great user experience.</p>
+<!--  at D.W. Morgan -->
 <p align="center">
   <a href="https://www.linkedin.com/in/pdzxc/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin" />
